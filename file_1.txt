@@ -1,2 +1,3 @@
 This is file 1
 This is the version 1.0 modification in file_1
+Alice line in the master branch
