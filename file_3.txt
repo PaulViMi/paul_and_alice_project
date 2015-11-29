@@ -1,1 +1,2 @@
 This is file 3
+Alice line in the master branch
